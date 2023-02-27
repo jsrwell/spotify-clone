@@ -4,7 +4,7 @@ Este projeto é um clone de uma das versões do site spotify, onde eu pude coloc
 
 ## Acesso à Pagina
 
-- Link: 
+- Link: https://jsrwell.github.io/spotify-clone/
 
 ## Tecnologias
 
